@@ -20,6 +20,5 @@
 	    }
 	    return $average;
 	}
-
 	echo 'L\'age moyen de la classe est de :'.average($students);
 ?>
